@@ -1,7 +1,10 @@
 feature 1 
 
-Hello My name is Ali Tariq
+Hello, My name is Ali Tariq
+---------------------------
 feature 2 
+
+I'm a student of CS at Uet 2020 Session.
 ------------
 
 feature 3 
