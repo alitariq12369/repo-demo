@@ -8,10 +8,10 @@ int main()
     cin>>Num1;
     cout<<"Enter Second Numer: ";
     cin>>Num2;
-    cout<<"Sum is "<<" "<< Sum(Num1,Num2);
+    cout<<"Sum is "<<" "<< Subtract(Num1,Num2);
     return 0;
 }
-int Sum(int num1, int num2)
+int Subtract(int num1, int num2)
 {
     return (num1-num2);
 }
